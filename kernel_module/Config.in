@@ -1,5 +1,5 @@
-config BR2_PACKAGE_KERNEL_MODULE 
- bool "kernel_module" 
- help 
- Kernel module module for sykom lecture. 
- http://example.com/
+config BR2_PACKAGE_KERNEL_MODULE
+	bool "kernel_module"
+	help
+		Kernel module module for sykt lecture.
+		http://example.com/
